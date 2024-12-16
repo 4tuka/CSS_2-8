@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#first {
+    padding: 64px 158px 268px 158px;
+}
+
+#second {
+    padding: 96px;
+    background: #FFAEAF;
+}
+
+#third {
+    padding: 96px 0px;
+    background-color: #fff;
+}
+
+#fifth {
+    text-align: center;
+}
+
+
+#our {
+    color: #ED00A6;
+    font-weight: 600;
+    font-size: var(--Font-size-text-md, 16px);
+}
+
+.div_first {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+    margin-top: 96px;
+    margin-right: 746px;
+}
+
+
+.div_second {
+    margin-top: 96px;
+    margin-left: 746px;
+}
